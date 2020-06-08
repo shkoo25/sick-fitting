@@ -13,6 +13,7 @@ const Item = styled.div`
     object-fit: cover;
   }
   p {
+    font-size: 12px;
     line-height: 2;
     font-weight: 300;
     flex-grow: 1;
